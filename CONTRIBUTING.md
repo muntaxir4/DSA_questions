@@ -5,7 +5,7 @@ Thank you for considering contributing to the DSA_questions repository! Your con
 ## Getting Started
 - An active GitHub account.
 - Git installed on your local machine.
-- Familize yourself with git basic commands.
+- Familarize yourself with git basic commands.
 
 ## Contributing Process
 
@@ -13,7 +13,7 @@ Here's a step-by-step guide on how to contribute to this repository:
 
 ### Creating a New Branch
 
-1. Fork the repository to your GitHub account. You can find on top of the [repo](https://github.com/muntaxir4/DSA_questions).
+1. Fork the repository to your GitHub account. You can find on top of the [repo](./).
 2. Clone your forked repository to your local machine:
 
 ```bash
