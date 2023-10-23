@@ -12,7 +12,7 @@ Hey, welcome to DSA_questions repository. This repository contains own implement
 - each language directory contains `problem.md` and `solution.cpp` (for C++ as an example).
 - Refer to example solution: [power-of-four](/problems/cpp/power-of-four/)
 
-### [data-structues](/data-structures) directory:
+### [data-structures](/data-structures) directory:
 - contains own implementaion of data structues such as Queue, Stack, HashMap,.. specific to a language.
 
 ### [algorithms](/algorithms) directory:
