@@ -4,7 +4,7 @@ Thank you for considering contributing to the DSA_questions repository! Your con
 
 ## Getting Started
 - An active GitHub account.
-- Git installed on your local machine.
+- Git installed on your local machine. Setting it up.
 - Familarize yourself with git basic commands.
 
 ## Contributing Process
