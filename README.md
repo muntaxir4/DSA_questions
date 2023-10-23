@@ -7,6 +7,7 @@ Hey, welcome to DSA_questions repository. This repository contains own implement
 ### [problems](/problems) directory:
 - contains questions and solutions specific to a language(C++, Java, Python).
 - each language directory contains `problem.md` and `solution.cpp` (for C++ as an example).
+- Refer to example solution: [power-of-four](/problems/cpp/power-of-four/)
 
 ### [data-structues](/data-structures)
 - contains own implementaion of data structues such as Queue, Stack, HashMap,.. specific to a language.
@@ -15,4 +16,4 @@ Hey, welcome to DSA_questions repository. This repository contains own implement
 - Own implementation of algorithms. Such as finding prime, power...
 
 ## Contributing to this repo
-Head to [CONTRIBUTING.md](./CONTRIBUTING.md) for full guidelines.
+Head over to [CONTRIBUTING.md](./CONTRIBUTING.md) for full guidelines.
