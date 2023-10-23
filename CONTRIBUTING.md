@@ -52,7 +52,7 @@ git push origin your-branch-name
 - Your PR will be reviewed by the repository maintainer. If any changes or improvements are needed, feedback will be provided.
 - Once your PR is approved, it will be merged into the main repository. Congratulations, you've successfully contributed! 🥳
 
-> Note: To create multiple PRs to repositories you will need to create different branches. So if you want to create another PR: 
+> Note: To create multiple PRs to repositories you may need to create different branches. So if you want to create another PR: 
 ```bash
 git checkout main
 git checkout -b your-branch-name2
