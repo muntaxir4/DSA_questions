@@ -9,7 +9,7 @@ Hey, welcome to DSA_questions repository. This repository contains implementaion
 
 ### [problems](/problems) directory:
 - Contains questions and solutions specific to a language(C++, Java, Python).
-- Each language directory contains `problem.md` and `solution.cpp` (for C++ as an example).
+- Each language directory contains a problem folder (Created by user) and has `problem.md` and `solution.cpp` inside it(for C++ as an example).
 - Refer to example solution: [power-of-four](/problems/cpp/power-of-four/)
 
 ### [data-structures](/data-structures) directory:
