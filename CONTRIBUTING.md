@@ -48,7 +48,7 @@ git commit -m "Your commit message"
 git push origin your-branch-name
 ```
 
-- Create a pull request (PR) from your branch to the main repository. Provide a clear title and/or description for your PR, detailing the changes you made.
+- Create a pull request (PR) from your branch to the main repository by visiting your forked repo on GitHub. Provide a clear title and/or description for your PR, detailing the changes you made.
 - Your PR will be reviewed by the repository maintainer. If any changes or improvements are needed, feedback will be provided.
 - Once your PR is approved, it will be merged into the main repository. Congratulations, you've successfully contributed! 🥳
 
