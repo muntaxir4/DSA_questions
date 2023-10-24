@@ -3,13 +3,14 @@ using namespace std;
 
 template<class T>
 class myqueue{
-    public:
+    private:
     struct Node{
         T data;
         Node *next;
         Node(T d){data=d;next=NULL;}
     };
     Node *head=NULL,*end=NULL; int lsize=0;
+    public:
     int push(T d){
         if(head==NULL) {
             head=new Node(d);lsize++;
@@ -49,4 +50,4 @@ int main(){
 }
 
 
-//Code contributed by @muntaxir
+//Code contributed by @muntaxir4
