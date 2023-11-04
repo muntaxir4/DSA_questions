@@ -4,5 +4,8 @@
 
 **Note : The progam is case sensitive , "The" and "the"  are treated as two separate words.**
 
-*Eg:*  String input --> ** Hi  Hi How are you ? **
-                      Output -->** Hi  How are you ?  **
+*Eg:* 
+ 
+String Input -->  **Hi  Hi How are you ?**
+
+ String  Output --> **Hi  How are you ?**
